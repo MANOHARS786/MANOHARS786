@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm LEELA MANOHAR</h1>
-<h3 align="center">A Passionate Android Developer From India</h3>
+<h3 align="center">An Aspiring Data Analyst & Future Business Leader From India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
@@ -14,10 +14,13 @@
 
 
   
-- 🌱 I’m currently learning **Kotlin**
-- 🤝 I’m looking for the opportunities based on **Android**
-- 💬 Ask me about **CODING (DSA) | ANDROID DEVELOPMENT**
-- 📫 How to reach me **manuhardrocky786@gmail.com**
+- 🌱 I’m currently learning **SQL, Power BI, Python, and Excel for Data Analytics**
+- 🎓 I’m pursuing an **MBA in Digital & Telecom Management**
+- 📊 I’m aspiring to become a **Data Analyst and Business Analytics professional**
+- 💡 My MBA course is a blend of **Technology, Analytics, and Management**
+- 🤝 I’m looking for opportunities in **Data Analytics, Business Analytics, and Consulting**
+- 💬 Ask me about **Data Analytics | SQL | Power BI | MBA Journey**
+- 📫 How to reach me **leelamanohars829@gmail.com**
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,46 +35,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  
-  <!-- CSS -->
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-      alt="css3" 
-      width="40" 
-      height="40"
-    />
-  </a>
-
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" 
-      alt="firebase" 
-      width="40" 
-      height="40"
-    />
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-      alt="git" 
-      width="40" 
-      height="40"
-    />
-  </a>
-
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-      alt="html5" 
-      width="40" 
-      height="40"
-    />
-  </a>
 
   <!-- Excel -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
@@ -123,6 +86,25 @@
     />
   </a>
 
-</p>  
+  <!-- Data Analytics -->
+  <a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank" rel="noreferrer">
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" 
+      alt="data analytics" 
+      width="40" 
+      height="40"
+    />
+  </a>
 
+<!-- Data Science -->
+<a href="https://en.wikipedia.org/wiki/Data_science" target="_blank" rel="noreferrer">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/4149/4149658.png" 
+    alt="data science" 
+    width="40" 
+    height="40"
+  />
+</a>
+
+</p>
        
